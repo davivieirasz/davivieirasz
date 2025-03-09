@@ -9,7 +9,7 @@
 <p align="center">
 🌍 Santa Catarina, Brasil<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-📊 SQL<br>
+🖥️ SQL<br>
 📚 Em Constante Aprendizado<br>
 
 ##
